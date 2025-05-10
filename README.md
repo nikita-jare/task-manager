@@ -1,6 +1,6 @@
 # Task Manager App
 
-A simple task management application built with React Native + Typescript and Expo. This app allows you to add tasks, mark them as complte, and delete them.
+A simple task management application that allows you to add tasks, mark them as complte, and delete them.
 
 ## Features
 
