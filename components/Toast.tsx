@@ -51,7 +51,6 @@ const Toast = ({ message, visible, type = "info", onHide }: ToastProps) => {
 
   if (!visible) return null;
 
-  // More subtle colors
   const backgroundColor =
     type === "success" ? "#E7F5E8" : type === "error" ? "#FAEDEC" : "#E8F1F9";
 
